@@ -5,7 +5,7 @@
 ?>
 <center>
 
-	<button><a href="pendaftaran.php">Input Data</a></button><form action="" method="POST"><input type="search" name="cari" value="NIM"><input type="submit" name="submit" value="Cari"></form>
+	<button><a href="pendaftaran.php">Input Data</a></button><form action="" method="POST"><input type="search" name="cari"><input type="submit" name="cari" value="Cari"></form>
 	<table border="1">
 		<tr>
 			<th>Nama</th>
